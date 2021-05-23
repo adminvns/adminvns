@@ -1,10 +1,10 @@
 ### Hi there, I'm Shubham Singh - aka [admin][github.com/adminvns] 👋
 
-[![Website](https://patelelectric.in)
+(https://patelelectric.in)
 
 ## I'm a Developer, Tester and Learner!!
 
-- 🔭 I just launched my test website: [Become A VS Code SuperHero!][https://patelelectronicsvn.wixsite.com/home]!
+- 🔭 I just launched my test website: [https://patelelectronicsvn.wixsite.com/home]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m up for learning new technologies
 - 🥅 2021 Goals: Contribute more to Open Source projects
