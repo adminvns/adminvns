@@ -4,7 +4,7 @@
 
 ## I'm a Developer, Tester and Learner!!
 
-- 🔭 I just launched my test website: https://www.patelelectric.org/!
+- 🔭 I just launched my new website: https://www.patelelectric.org/!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m up for learning new technologies
 - 🥅 2021 Goals: Contribute more to Open Source projects
