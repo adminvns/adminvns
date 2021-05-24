@@ -1,6 +1,6 @@
 ### Hi there, I'm Shubham Singh - aka [admin][github.com/adminvns] 👋
 
-(https://patelelectric.org)
+(https://patelelectric.in)
 
 ## I'm a Developer, Tester and Learner!!
 
