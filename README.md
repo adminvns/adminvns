@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="patelelectric.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][patelectric.in]
-<br />
+<img align="left" alt="patelelectric.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[patelectric.in]
+<br/>
 
 ### Languages and Tools:
 
