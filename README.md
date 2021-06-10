@@ -11,11 +11,20 @@
 - ⚡ Fun fact: I love to Sing and play Guitar.
 
 
-### Connect with me:
+### My Clients:
 
 <img align="left" alt="patelelectric.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>https://patelelectric.in/
 <br/>
-
+<img align="left" alt="http://www.swatitanu.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>https://patelelectric.in/
+<br/>
+<img align="left" alt="patelelectric.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>https://patelelectric.in/
+<br/>
+<img align="left" alt="doogler.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>https://patelelectric.in/
+<br/>
+<img align="left" alt="suprabhatpg.godaddysites.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>https://patelelectric.in/
+<br/>
+<img align="left" alt="https://patelelectronicsvn.wixsite.com/anyonecanpaint/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>https://patelelectric.in/
+<br/>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
