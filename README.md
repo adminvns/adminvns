@@ -1,6 +1,6 @@
 ### Hi there, I'm Shubham Singh - aka [admin][github.com/adminvns] 👋
 
-(https://patelelectric.in)
+(https://shubhamadmin.in)
 
 ## I'm a Developer, Tester and Learner!!
 
@@ -15,15 +15,15 @@
 
 <img align="left" alt="patelelectric.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>https://patelelectric.in/
 <br>
-<img align="left" alt="http://www.swatitanu.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>http://www.swatitanu.in
+<img align="left" alt="http://www.swatitanu.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>https://www.swatitanu.in
 <br>
 <img align="left" alt="patelelectric.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>https://patelelectric.org/
 <br>
-<img align="left" alt="doogler.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>www.doogler.in/
+<img align="left" alt="doogler.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>https://www.doogler.in/
 <br>
 <img align="left" alt="suprabhatpg.godaddysites.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>https://suprabhatpg.godaddysites.com/
 <br>
-<img align="left" alt="https://patelelectronicsvn.wixsite.com/anyonecanpaint/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>https://patelelectric.in/
+<img align="left" alt="https://patelelectronicsvn.wixsite.com/anyonecanpaint/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>https://patelelectronicsvn.wixsite.com/anyonecanpaint/
 <br>
 ### Languages and Tools:
 
