@@ -13,17 +13,19 @@
 
 ### My Work/Clients:
 
-<img align="left" alt="patelelectric.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>https://patelelectric.in/
+https://patelelectric.in/
 <br>
-<img align="left" alt="http://www.swatitanu.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>https://www.swatitanu.in
+https://www.swatitanu.in
 <br>
-<img align="left" alt="patelelectric.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>https://patelelectric.org/
+https://patelelectric.org/
 <br>
-<img align="left" alt="doogler.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>https://www.doogler.in/
+https://www.doogler.in/
 <br>
-<img align="left" alt="suprabhatpg.godaddysites.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>https://suprabhatpg.godaddysites.com/
+https://suprabhatpg.godaddysites.com/
 <br>
-<img align="left" alt="https://patelelectronicsvn.wixsite.com/anyonecanpaint/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>https://patelelectronicsvn.wixsite.com/anyonecanpaint/
+https://patelelectronicsvn.wixsite.com/anyonecanpaint/
+<br>
+https://vermaenterprises.netlify.app/
 <br>
 ### Languages and Tools:
 
@@ -37,6 +39,6 @@
 <br />
 
 [website]: https://patelelectric.in
-[webiste-2]: https://patelelectronicsvn.wixsite.com/home
+[webiste-2]: https://patelelectric.org
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/admivns
