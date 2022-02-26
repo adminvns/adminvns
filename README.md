@@ -3,7 +3,6 @@
 
 ## I'm a Developer, Automation Engineer and CyberSec Engineer!!
 
-- 🔭 I just launched my new website: https://www.patelelectric.org/!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m up for learning new technologies
 - 🥅 2021 Goals: Contribute more to Open Source projects
