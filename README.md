@@ -21,7 +21,3 @@
 <br />
 <br />
 
-[website]: https://patelelectric.in
-[webiste-2]: https://patelelectric.org
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/admivns
