@@ -1,7 +1,7 @@
 ### Hi there, I'm Shubham - aka [admin][github.com/adminvns] 👋
 
 
-## I'm a Developer, Automation Engineer and CyberSec Engineer!!
+## I'm a Full Stack Developer & Cyber Security Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m up for learning new technologies
