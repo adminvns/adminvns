@@ -1,4 +1,4 @@
-### Hi there, I'm Shubham Singh - aka [admin][github.com/adminvns] 👋
+### Hi there, I'm Shubham - aka [admin][github.com/adminvns] 👋
 
 
 ## I'm a Developer, Automation Engineer and CyberSec Engineer!!
