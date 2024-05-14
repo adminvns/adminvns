@@ -1,7 +1,7 @@
 ### Hi there, I'm Shubham - aka [admin][github.com/adminvns] 👋
 
 
-## I'm DevOps Engineer & Front-End Developer!!
+## I'm DevOps Engineer & Automation Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m up for learning new technologies
