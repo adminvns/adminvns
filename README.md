@@ -1,4 +1,4 @@
-# Hi there, I'm Shubham - aka [admin][github] 👋
+# Hi there, I'm Shubham - aka Mr.Stark/Admin 👋
 
 ## DevOps Engineer & Automation Developer!!
 
