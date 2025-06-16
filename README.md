@@ -1,6 +1,6 @@
 # Hi there, I'm Shubham - aka Mr.Stark/Admin 👋
 
-## DevOps Engineer & Automation Developer!!
+## Full Stack Engineer & Automation Developer!!
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-5886-blue?style=flat-square)
 
