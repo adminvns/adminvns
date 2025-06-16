@@ -43,9 +43,10 @@
 ![SQL Injection](https://img.shields.io/badge/-💉%20SQL%20Injection-000)
 ![Network Tools](https://img.shields.io/badge/-🌐%20Network%20Tools-000)
 
-### GitHub Stats
+### GitHub Stats & Streaks
 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=adminvns&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adminvns&theme=dark)
 
 ---
 
