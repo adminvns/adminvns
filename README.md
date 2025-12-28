@@ -46,9 +46,24 @@
 ### GitHub Stats & Streaks
 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=adminvns&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adminvns&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=adminvns&theme=dark)
+
 
 ---
 
-⭐️ From [adminvns](https://github.com/adminvns)
+⭐️ From [adminvns](https://github.com/adminvns) <br>
+---
+
+### ☕ Support My Work
+
+If my projects or automation tools helped you, consider supporting my work 👇
+
+<a href="https://buymeacoffee.com/adminvns" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+       alt="Buy Me A Coffee"
+       style="height: 45px; width: 162px;" />
+</a>
+
+---
+
 
