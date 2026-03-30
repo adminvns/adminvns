@@ -1,4 +1,4 @@
-# Hi there, I'm Shubham - aka Mr.Stark/Admin 👋
+# Hi there, I'm Shubham 
 
 ## Full Stack Engineer & Automation Developer!!
 
