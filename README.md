@@ -1,6 +1,6 @@
 # Hi there, I'm Shubham 
 
-## Full Stack Engineer & Automation Developer!!
+## QA Automation Engineer!!
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-5886-blue?style=flat-square)
 
