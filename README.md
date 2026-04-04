@@ -1,6 +1,6 @@
 # Hi there, I'm Shubham 
 
-## QA Automation Engineer!!
+## Profile - Senior QA Automation Engineer!
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-5886-blue?style=flat-square)
 
@@ -9,10 +9,6 @@
 
 🔧 I'm passionate about automating tasks and improving efficiency. With a strong background in DevOps and automation, I love working on challenging projects and learning new technologies.
 
-### Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/adminvns/)
-[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail&logoColor=EA4335)](mailto:shubham.edior@gmail.com)
 
 ### Languages
 
